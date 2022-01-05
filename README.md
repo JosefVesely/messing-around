@@ -2,9 +2,7 @@
 
 My personal website
 
-## Screenshot
-
-![Website](screenshot.png)
+[josves.net](https://www.josves.net)
 
 ## License
 
